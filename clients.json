@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "643d89aa828b333c87fc64ad"
+  },
+  "name": "Stella Miranda Carino",
+  "email": "stella.carino@geradornv.com.br",
+  "document": "44849442005",
+  "password": "$2b$10$5/IXQ1wCYkp.6Dz422x7X.F3GWYAN7renfjInDeCPat4a4NdTh4vi",
+  "age": 27,
+  "phone": "973186424",
+  "createdAt": {
+    "$date": "2023-04-17T18:01:57.150Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T18:01:57.150Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d8a5d828b333c87fc64b0"
+  },
+  "name": "Elvis Werneck Estevam",
+  "email": "elvis.estevam@geradornv.com.br",
+  "document": "17777531042",
+  "password": "$2b$10$f2qhPwfAqIe.jg4pTT.beeJBxO0lYxO0lQXNJ7RUkgBch1Tn17zPi",
+  "age": 43,
+  "phone": "971217473",
+  "createdAt": {
+    "$date": "2023-04-17T18:01:57.150Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T18:01:57.150Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d8a6f828b333c87fc64b3"
+  },
+  "name": "Amanda Macedo Cavalcante",
+  "email": "amanda.cavalcante@geradornv.com.br",
+  "document": "43416570030",
+  "password": "$2b$10$Ozuqk0BDTVpAOTcy4mZhgO/YTwmnqJkYCr9TXZR1CZ68c1xQAcQ/a",
+  "age": 33,
+  "phone": "973815573",
+  "createdAt": {
+    "$date": "2023-04-17T18:01:57.150Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T18:01:57.150Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d8a88828b333c87fc64b6"
+  },
+  "name": "Luiz Carlos Barthon Sampaio",
+  "email": "luiz.sampaio@geradornv.com.br",
+  "document": "28529746066",
+  "password": "$2b$10$E6U55vbRxLtm6mdoSW735.2xIbymyF6NVFJ0vkrsBJ5gbVMIdiO7i",
+  "age": 34,
+  "phone": "980828573",
+  "createdAt": {
+    "$date": "2023-04-17T18:01:57.150Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T18:01:57.150Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d8aa1828b333c87fc64b9"
+  },
+  "name": "Renata Amaral Schuenck",
+  "email": "renata.schuenck@geradornv.com.br",
+  "document": "74793433022",
+  "password": "$2b$10$DlqhNUR0qjTe60FLdfTTje5sFgaL.W7X5xLh4e8u25m/5MCQU/3y6",
+  "age": 20,
+  "phone": "976347181",
+  "createdAt": {
+    "$date": "2023-04-17T18:01:57.150Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T18:01:57.150Z"
+  },
+  "__v": 0
+}]

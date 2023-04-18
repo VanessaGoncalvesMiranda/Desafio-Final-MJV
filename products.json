@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "643d78a7a44e6960d76d6b96"
+  },
+  "password": "$2b$10$WyODP8wpGkxczupa7ngjIeduTwKk3ABZVzSQKt0VK0f8ohG70CVmO",
+  "code": 76420,
+  "product": "Essencial Deo Parfum Masculino",
+  "description": "Uma fragrância que combina a potência das madeiras mais nobres da perfumaria com o frescor das notas verdes. Composição sofisticada e intensa, um clássico da perfumaria.",
+  "fragrance": "Saída: bergamota, lavanda, gálbano, zimbro, noz moscada, grapefrut, manjericão. Corpo: gerânio, patchuli, alecrim, sálvia, jasmim. Fundo: cedro, musc, musgo de carvalho, sândalo, âmbar, fir bálsamo, mirra",
+  "volume": "100 ml",
+  "price": 229,
+  "img": "https://www.natura.com.br/p/essencial-masculino-100-ml/76420?color=3&listTitle=manual%20showcase%20-%20todo%20mundo%20aproveitando%20promos%20especiais%20%E2%9C%A8&position=3",
+  "quantity": 5,
+  "createdAt": {
+    "$date": "2023-04-17T16:49:33.747Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d792aa44e6960d76d6b9e"
+  },
+  "password": "$2b$10$fJUMyDj6GaFKdwFv8P71hu9MoZ40P/B5DRHoWfJiU85ZoAWJQnjQu",
+  "code": 54522,
+  "product": "Ilía Deo Parfum",
+  "description": "A intensidade das flores brancas, envoltas por um complexo adocicado de baunilha e musk, em perfeita harmonia com a delicadeza de notas levemente frutadas. Uma fragrância enriquecida com ingrediente natural extraído da paramela.",
+  "fragrance": "Saída: frutas vermelhas, pomêlo rosa, flor de laranjeira e bergamota. Corpo: flores brancas, muguet, jasmim transparente, gardênia, freesia, rosa. Fundo: vanilla, fava tonka, âmbar e musk",
+  "volume": "50 ml",
+  "price": 155,
+  "img": "https://www.natura.com.br/p/ilia-50-ml/54522?listTitle=manual%20showcase%20-%20todo%20mundo%20aproveitando%20promos%20especiais%20%E2%9C%A8&position=6",
+  "quantity": 4,
+  "createdAt": {
+    "$date": "2023-04-17T16:49:33.747Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d795ca44e6960d76d6ba1"
+  },
+  "password": "$2b$10$kzAEs6ShR5IShHm0pRfpceCdnkkNZwa/1WgIku5W9LHocEeHFCV/e",
+  "code": 99137,
+  "product": "Creme Nutritivo Para o Corpo Tododia Cereja e Avelã",
+  "description": "Sinta seu corpo com o novo Creme Nutritivo Desodorante Tododia Cereja e Avelã. Uma combinação balanceada de ingredientes naturais com NUTRIÇÃO PREBIÓTICA, que se adapta ao que sua pele precisa a cada dia. Por isso, esse creme é indicado para todos os tipos de pele.",
+  "fragrance": "Fragrância que surpreende: atraente e marcante com notas adocicadas.",
+  "volume": "400 ml",
+  "price": 40,
+  "img": "https://www.natura.com.br/p/creme-desodorante-nutritivo-para-o-corpo-tododia-cereja-e-avela-400-ml/99137?listTitle=manual%20showcase%20-%20cuidados%20que%20n%C3%A3o%20podem%20faltar%20na%20sua%20rotina%20%E2%9C%85&position=1",
+  "quantity": 9,
+  "createdAt": {
+    "$date": "2023-04-17T16:49:33.747Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d7994a44e6960d76d6ba4"
+  },
+  "password": "$2b$10$uRxuh/b6s.daSVHmyMRpne2bXy4UPj/AcFJIyt/DPU3lo3s5mBFrW",
+  "code": 87512,
+  "product": "Sabonete em Barra Puro Vegetal Tododia Amora Vermelha e Jabuticaba",
+  "description": "O Sabonete em Barra Tododia Amora Vermelha e Jabuticaba promove uma sensação agradável, enquanto limpa e deixa a pele macia e sedosa. Sua fórmula suave e com ingredientes naturais evita o ressecamento e prepara a pele para receber a combinação nutritiva e inteligente dos hidratantes Natura Tododia.",
+  "fragrance": "Fragrância alegre e exuberante com notas frutais;",
+  "volume": "5 unidade de 90 g cada",
+  "price": 23,
+  "img": "https://www.natura.com.br/p/sabonete-em-barra-puro-vegetal-tododia-amora-vermelha-e-jabuticaba-5-un-de-90-g-cada/87512?listTitle=manual%20showcase%20-%20todo%20mundo%20aproveitando%20promos%20especiais%20%E2%9C%A8&position=1",
+  "quantity": 10,
+  "createdAt": {
+    "$date": "2023-04-17T16:49:33.747Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d79f20f6e664a7c10ba75"
+  },
+  "password": "$2b$10$7k45tkFeh2DRnDdiuA/t4OrPH7hwP6niNoErrERF67oYgjIm.gBBK",
+  "code": 92786,
+  "product": "Mamãe e Bebê Água de Colônia",
+  "description": "Fórmula 100% segura para ser usada desde o primeiro dia de vida, testada e aprovada por pediatras. Com perfumação suave, sem álcool para não agredir a pele sensível e delicada do bebê.",
+  "fragrance": "Aconchego e cuidado em uma fragrância levemente cítrica, que combina flores suaves de lavanda com notas levemente adocicadas.",
+  "volume": "100 ml",
+  "price": 90,
+  "img": "https://www.natura.com.br/p/agua-de-colonia-100-ml/92786?listTitle=category%20page%20list%20showcase%20-%20tudo%20em%20infantil&position=1",
+  "quantity": 6,
+  "createdAt": {
+    "$date": "2023-04-17T16:55:11.024Z"
+  },
+  "__v": 0
+}]

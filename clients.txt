@@ -1,0 +1,34 @@
+"name": "Stella Miranda Carino",
+"email": "stella.carino@geradornv.com.br",
+"document": "44849442005",
+"password": "533383",
+"phone": "973186424",
+"age": 27
+
+"name": "Elvis Werneck Estevam",
+"email": "elvis.estevam@geradornv.com.br",
+"document": "17777531042",
+"password": "359161",
+"phone": "971217473",
+"age": 43
+
+"name": "Amanda Macedo Cavalcante",
+"email": "amanda.cavalcante@geradornv.com.br",
+"document": "43416570030",
+"password": "823440",
+"phone": "973815573",
+"age": 33
+
+"name": "Luiz Carlos Barthon Sampaio",
+"email": "luiz.sampaio@geradornv.com.br",
+"document": "28529746066",
+"password": "704552",
+"phone": "980828573",
+"age": 34
+
+"name": "Renata Amaral Schuenck",
+"email": "renata.schuenck@geradornv.com.br",
+"document": "74793433022",
+"password": "611216",
+"phone": "976347181",
+"age": 20
